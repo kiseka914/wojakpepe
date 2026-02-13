@@ -164,53 +164,6 @@
                     }),
                   ],
                 }),
-                (0, s.jsxs)("div", {
-                  className: "space-y-5",
-                  children: [
-                    (0, s.jsx)("p", {
-                      className: "font-unbounded font-bold text-4xl",
-                      children: (0, s.jsx)(c.B, {
-                        as: "span",
-                        once: !0,
-                        animation: "blurIn",
-                        delay: 0.2,
-                        by: a ? "word" : "character",
-                        children: "The word 6900 was said:",
-                      }),
-                    }),
-                    (0, s.jsxs)("div", {
-                      className: "space-y-2",
-                      children: [
-                        (0, s.jsxs)("p", {
-                          className:
-                            "font-unbounded font-bold text-primary text-5xl lg:text-6xl",
-                          children: [
-                            "13.8M ",
-                            (0, s.jsx)(c.B, {
-                              as: "span",
-                              once: !0,
-                              animation: "blurIn",
-                              delay: 0.4,
-                              by: a ? "word" : "character",
-                              children: "times",
-                            }),
-                          ],
-                        }),
-                        (0, s.jsx)("p", {
-                          className: "font-unbounded font-bold text-4xl",
-                          children: (0, s.jsx)(c.B, {
-                            as: "span",
-                            once: !0,
-                            animation: "blurIn",
-                            delay: 0.6,
-                            by: a ? "word" : "character",
-                            children: "Today on X",
-                          }),
-                        }),
-                      ],
-                    }),
-                  ],
-                }),
               ],
             }),
             (0, s.jsxs)("div", {

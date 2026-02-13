@@ -229,22 +229,7 @@
                     className: "font-unbounded text-2xl font-black",
                     children: "WOJAKPEPE",
                   }),
-                  (0, i.jsxs)("div", {
-                    className:
-                      "bg-primary-dark-2 font-unbounded items-center rounded-full px-4 py-3 font-bold max-lg:hidden",
-                    children: [
-                      "The word 6900 was said:",
-                      " ",
-                      (0, i.jsxs)("span", {
-                        className: "text-primary",
-                        children: [
-                          "13.8M times",
-                        ],
-                      }),
-                      " ",
-                      "Today on X",
-                    ],
-                  }),
+                  
                   (0, i.jsx)("div", {
                     style: { display:'flex', alignItems: 'center', gap:10},
                     children: [
@@ -261,21 +246,7 @@
                 ],
               }),
             }),
-            (0, i.jsxs)("div", {
-              className:
-                "bg-primary-dark-2 font-unbounded mx-5 items-center rounded-full px-2 py-3 text-center text-xs text-[10px] font-bold lg:hidden",
-              children: [
-                "The word 6900 was said:",
-                " ",
-                (0, i.jsxs)("span", {
-                  className: "text-primary",
-                  children: ["13.8M times",
-                  ],
-                }),
-                " ",
-                "Today on X",
-              ],
-            }),
+            
           ],
         });
       }
