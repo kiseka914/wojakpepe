@@ -366,7 +366,7 @@
                   children: [
                     (0, s.jsxs)("div", {
                       className:
-                        "font-unbounded max-w-[450px] text-5xl leading-[135%] font-bold lg:text-[72px]",
+                        "font-unbounded max-w-[400px] text-5xl leading-[135%] font-bold lg:text-[72px]",
                       children: [
                         (0, s.jsx)(p.B, {
                           as: "h1",
