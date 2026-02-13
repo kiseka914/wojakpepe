@@ -574,7 +574,7 @@
             "https://app.uniswap.org/swap?inputCurrency=NATIVE&outputCurrency=0xComingSoon",
           CHART_URL:
             "https://dexscreener.com/ethereum/0xComingSoon",
-          X_URL: "https://x.com/WOJAKPEPE_x",
+          X_URL: "https://x.com/wojakpepe_coin",
           API_BASE_URL: "https://api.bullishdegen.com/v1",
           APP_URL: "https://pfp.bullishdegen.com",
           LAMBO_URL: "https://www.lamborghini.com",

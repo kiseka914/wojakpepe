@@ -425,7 +425,7 @@
                         "flex flex-row items-center justify-center gap-2 lg:gap-3",
                       children: [
                         (0, s.jsx)(r.$, {
-                          onClick: () => window.open("https://t.me/WOJAKPEPE_tg", "_blank"),
+                          onClick: () => window.open("https://t.me/wojakpepe_coin", "_blank"),
                           children: "Join Community",
                         }),
                         (0, s.jsx)(r.$, {
@@ -599,7 +599,7 @@
                       damping: 15,
                     },
                     viewport: { once: !0 },
-                    onClick: () => window.open("https://t.me/WOJAKPEPE_tg", "_blank"),
+                    onClick: () => window.open("https://t.me/wojakpepe_coin", "_blank"),
                     children: (0, s.jsx)(r.$, { children: "Telegram" }),
                   }),
                 ],
