@@ -723,7 +723,7 @@
                     children: (0, s.jsxs)("p", {
                       className: "max-lg:text-center lg:text-[32px]",
                       children: [
-                        `WOJAKPEPE is the ultimate fusion of internet legend and cosmic ambition—a memecoin that's not just riding the frog wave, but launching it to the stars. Born from the chaotic genius of the original PEPE meme (you know, that sad-yet-savage frog who's been through it all), WOJAKPEPE cranks the dial to 11 with a cheeky nod to the "nice" milestone of 69 (doubled for extra spice) and 00 for that clean-slate reset to zero-gravity gains.`,
+                        `WOJAKPEPE ($WOPE) is the ultimate fusion of two internet legends: the melancholic everyman Wojak (that bald feels guy who's seen it all) and the iconic Pepe the Frog (the sad-yet-savage meme king). This memecoin isn't just riding the frog wave—it's blasting it to the stars with pure degen energy on Ethereum.`,
                       ],
                     }),
                   }),
