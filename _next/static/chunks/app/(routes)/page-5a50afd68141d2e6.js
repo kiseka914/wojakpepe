@@ -267,7 +267,7 @@
             target: "_blank",
             className:
               "text-foreground flex items-center justify-center gap-6 px-4 py-2 transition-colors md:py-3",
-            children: (0, s.jsx)("p", { children: "$WOJAKPEPE" }),
+            children: (0, s.jsx)("p", { children: "$WOPE" }),
           }),
         d = () =>
           (0, s.jsxs)(s.Fragment, {
@@ -382,7 +382,7 @@
                           animation: "blurIn",
                           delay: 0.4,
                           by: "character",
-                          children: "$WOJAKPEPE",
+                          children: "$WOPE",
                         }),
                         (0, s.jsx)(p.B, {
                           as: "h1",
@@ -403,7 +403,7 @@
                         delay: 0.8,
                         by: "character",
                         children:
-                          "$WOJAKPEPE isn't just another token, it's a movement built on resilience, community, and unshakable optimism.",
+                          "$WOPE isn't just another token, it's a movement built on resilience, community, and unshakable optimism.",
                       }),
                     }),
                     (0, s.jsxs)(l.P.div, {

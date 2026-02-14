@@ -89,7 +89,7 @@
                         viewport: { once: !0 },
                         className:
                           "font-unbounded text-4xl font-bold lg:text-[120px]",
-                        children: "$WOJAKPEPE",
+                        children: "$WOPE",
                       }),
                       (0, i.jsxs)(s.P.div, {
                         initial: {
@@ -111,7 +111,7 @@
                         children: [
                           (0, i.jsx)("p", {
                             className: "lg:text-[32px]",
-                            children: "You're not holding enough $WOJAKPEPE!",
+                            children: "You're not holding enough $WOPE!",
                           }),
                           " ",
                           (0, i.jsx)(r.$, {
@@ -239,7 +239,7 @@
                       }),
                       (0, i.jsx)(r.$, {
                         onClick: () => window.open(n.A.BUY_URL, "_blank"),
-                        children: "Buy $WOJAKPEPE",
+                        children: "Buy $WOPE",
                       }),
                     ]
                   }),
